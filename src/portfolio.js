@@ -20,7 +20,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer 🚀 passionate about developing scalable, efficient, and user-focused web applications with React.js, Java, and modern tech.",
   resumeLink: "https://karthikreddy-portfolio.vercel.app/karthikreddy.pdf",
-  portfolio_repository: "https://github.com/karthikreddymarla",
+  portfolio_repository: "https://github.com/prajwalpvs/Prajwal-portfolio-master",
   githubProfile: "https://github.com/prajwalpvs",
 };
 
