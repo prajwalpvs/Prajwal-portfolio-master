@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "SmartCommerce",
+      "createdAt": "Click to Git Repository",
+      "url": "",
+      "description": "A full-stack e-commerce web application designed for seamless shopping experiences. Built with React.js for the frontend and Java Spring Boot for the backend, it features user authentication, a dynamic product catalog, shopping cart functionality, and secure RESTful API integration. MySQL is used for robust data management, and the UI is fully responsive with Tailwind CSS.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Counter App (React)",
+      "createdAt": "Click to Git Repository",
+      "url": "https://github.com/karthikreddymarla/counter-app-with-react.js",
+      "description": "A simple yet effective React.js application that demonstrates core concepts of state management, props, and component lifecycle. The app allows users to increment, decrement, and reset a counter value, showcasing real-time updates and responsive design principles.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Portfolio Website",
+      "createdAt": "Click to Git Repository",
+      "url": "https://github.com/karthikreddymarla/karthikreddy-portfolio",
+      "description": "A personal portfolio website built with React.js to showcase my professional experience, projects, and skills. The site is fully responsive, integrates smooth animations, and includes interactive sections for contact, social media, and resume access. Deployed using GitHub Pages with a focus on clean design and accessibility.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+        
+      ]
+    }
+  ]
+}
